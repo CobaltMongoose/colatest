@@ -14,7 +14,5 @@ Test
 
 Test 2
 
-Open
-
-Close
+**Open Close**
 
