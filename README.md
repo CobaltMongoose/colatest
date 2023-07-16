@@ -12,3 +12,9 @@ Test-code -t test -c "test"
 
 Test
 
+Test 2
+
+Open
+
+Close
+
